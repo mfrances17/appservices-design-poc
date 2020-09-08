@@ -1,6 +1,5 @@
 ---
-parent: component_1
-version: 4.0
+parent: release_1
 ---
 
 # Admin User Menu

@@ -1,6 +1,5 @@
 ---
-parent: component_2
-version: 4.0
+parent: release_1
 ---
 
 # Dev User Menu
