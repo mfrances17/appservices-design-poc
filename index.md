@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+nav_label: Home
+has_children: true
+nav_order: 1
 ---
+
+# App Services Design
+
+![Banner](assets/images/banner.png)
+
+This site includes [designs](./designs), [conventions](./conventions), and [research](./research) related to the App Services ecosystem. Most of this site is created and maintained by the [Red Hat User Experience Design team](https://www.redhat.com/en/about/product-design), but we welcome external contributions and suggestions.
