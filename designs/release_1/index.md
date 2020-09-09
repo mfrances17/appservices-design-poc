@@ -1,6 +1,7 @@
 ---
-parent: Designs
 has_children: true
+nav_order: 1
+has_toc: false
 ---
 
 # Release 1

@@ -1,5 +1,8 @@
 ---
-parent: Release 1
+title: Dev User Menu
+parent: has_children: false
+nav_order: 2
+has_toc: false
 ---
 
 # Dev User Menu

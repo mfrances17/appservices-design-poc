@@ -2,23 +2,23 @@
 parent: Research
 
 ---
-# Research Topic 1 (Heading 1)
+# Research Topic 1
 
 Description of research topic 1
 
-## Introduction (Heading 2)
+## Introduction
 
 Some intro text
 
-## Research Topic 1 - another heading 2
+## Research Topic 1
 
  Lots of text
 
-### Research Topic 1 - a heading 3
+### Research Topic 1
 
 Some stuff goes here
 
-#### Research Topic 1 - a heading 4
+#### Research Topic 1
 
 Some other stuff goes here
 
