@@ -1,6 +1,7 @@
 ---
 title: Admin User Menu
 parent: Release 1
+grand_parent: Designs
 has_children: false
 nav_order: 1
 has_toc: false
