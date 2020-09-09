@@ -4,7 +4,7 @@ parent: Research
 ---
 # Research Topic 2
 
-Description of research topic 1
+Description of research topic 2
 
 ## Introduction
 

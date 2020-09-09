@@ -1,7 +1,8 @@
 ---
 nav_label: Conventions
-has_children: true
+# has_children: true
 nav_order: 4
+has_toc: false
 ---
 
 # Conventions
