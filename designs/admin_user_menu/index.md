@@ -1,16 +1,15 @@
 ---
-title: Dev User Menu
-parent: Release 1
-grand_parent: Designs
+title: Admin User Menu
+parent: Designs
 has_children: false
-nav_order: 2
+nav_order: 1
 has_toc: false
 ---
 
-# Dev User Menu
+# Admin User Menu
 
 - Users will love it
 - Users will first be prompted to login, then they can see if they are an admin or dev user.
 - Etc
 
-![03](img/dev_user_menu.png)
+![03](img/admin_user_menu.png)
