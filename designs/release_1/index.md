@@ -1,6 +1,7 @@
 ---
 title: Release 1
-# has_children: true
+parent: Designs
+has_children: true
 nav_order: 1
 has_toc: false
 ---
