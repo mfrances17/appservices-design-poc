@@ -7,7 +7,6 @@ This document serves as a proposal for a standardization of the expression of un
 The content relies heavily on existing PatternFly guidelines, international standards, and sources of best practices and guidelines of technical writing.
 This work has been conducted as part of a breakaway sprint for the Integration Services UXD team, and is referenced in the App Dev UXD Jira board as backlog item [APPDUX-394](https://issues.redhat.com/browse/APPDUX-394).
 
-<br />
 
 ## Introduction
 In the Integration Services application space, the units of measure that are most likely to be displayed in the user interface are:
@@ -19,7 +18,6 @@ In the Integration Services application space, the units of measure that are mos
 
 Each of these are specified in the pages that follow, along with some general guidelines that apply to all units of measure.
 
-<br />
 
 ## Fundamentals of Units of Measure
 In scientific writing, metric measure is the accepted form of expression for physical and chemical quantities. 
@@ -46,7 +44,6 @@ The common non-SI units that are accepted for use with SI units include:
 + volume (liter = 10-3 m3, L)
 + pressure (bar = 105 Pa, bar)
 
-<br />
 
 ## Date and Time
 PatternFly provides guidance on the display of [dates and times](https://www.patternfly.org/v4/design-guidelines/content/numerics) and are summarized below, along with additional guidance.
@@ -80,7 +77,6 @@ Avoid using symbols for Day, Week, Month and Year
 
 \* Specified in Patternfly Design Guidelines for Numerics
 
-<br />
 
 ## Data Storage
 Digital information (e.g., computer storage and memory) is typically measured in bytes. Bytes can be shown in either the base 10 decimal / metric format (e.g., Gigabyte) or the base 2 / binary format (e.g., Gibibyte) scales. 
@@ -95,7 +91,6 @@ Most of the world is decimal-based, but computing is done in binary, so this sca
 | 1 terabyte |    TB   | 10004 |  1 tebibyte |  TiB   | 10244 |
 | 1 petabyte |    PB   | 10005 |  1 pebibyte |  PiB   | 10245 |
 
-<br />
 
 ## Data Bandwidth
 Bandwidth is measured as the amount of data that is transferred from one point to another within a computer system in a specific amount of time. 
@@ -112,7 +107,6 @@ For example, if transferring data from one system to another, connection speed d
 | 1 gigabyte/second | GBps | 1 gibibyte/second | GiBps |
 | 1 terabyte/second | TBps | 1 tebibyte/second | TiBps |
 
-<br />
 
 ## Currency
 The display of currency should use the [ISO standard (ISO 4217)](https://www.iso.org/iso-4217-currency-codes.html) three-letter code, which is widely known and accepted.
@@ -130,8 +124,6 @@ For example:
 | European Union | Euro | EUR | 978 |
 | United Kingdom | Pound | GBP | 826 |
 
-
-<br />
 
 ## General Guidelines
 
@@ -152,7 +144,6 @@ Unit names and unit symbols should not be mixed and mathematical operations shou
 |                             | kilogram per meter<sup>3</sup> |
 |                             | kg per m<sup>3</sup>           | 
 
-<br />
 
 ### Grammar and Punctuation
 The symbols for SI units should be shown in lowercase, except for the units with a name derived from a proper name, in which case the first letter of the symbol is capitalized (e.g., watt is W, tesla is T, hertz is Hz).
@@ -175,21 +166,17 @@ Units for two or more related quantities must be unambiguous. If necessary, incl
 | 10 seconds to 75 seconds | 10 seconds to 1.25 minutes |
 | 10 to 75 seconds |
 
-<br />
 
 ## Examples in Integration Services Products
 
-<br />
 
 ### AMQ Filter Last Seen Time Range
 ![AMQ filter last seen time range](../images/AMQ-Filter-LastSeen-TimeRange.png)
 
-<br />
 
 ### Fuse Online Publish Date and Time  
 ![Fuse Online publish date and time](../images/FuseOnline-Publish-DateTime.png)
 
-<br />  
 
 ### Fuse Online Timer Connection Time Units  
 ![Fuse Online timer connection time units](../images/FuseOnline-TimerConnection-Time-Units.png)
