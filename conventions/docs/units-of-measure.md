@@ -177,6 +177,7 @@ Units for two or more related quantities must be unambiguous. If necessary, incl
 ### Fuse Online Publish Date and Time  
 ![Fuse Online publish date and time](../images/FuseOnline-Publish-DateTime.png)
 
+<br />  
 
 ### Fuse Online Timer Connection Time Units  
 ![Fuse Online timer connection time units](../images/FuseOnline-TimerConnection-Time-Units.png)
