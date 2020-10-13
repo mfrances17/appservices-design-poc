@@ -1,7 +1,7 @@
 ## Motivation
 <!-- Add references to relevant tickets, issues, or design specs and/or a short description of what motivated you to do it. -->
 
-## What/Why/How
+## Brief Description
 <!-- Add a short answer for: 
 What was done in this PR? (e.g Don't allow users has access to the feature X.)
 Why it was done? (e.g The feature X was deprecated.)
